@@ -1,0 +1,16 @@
+# Porter Robinson – Fresh Static Snow
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:32.45] You fit perfectly to me in the loneliness, melt this curse away
+[00:39.95] Though I'll never know your name I'll cry for you the same
+[01:08.95] 
+[00:48.48] You fit perfectly to me in the loneliness, melt this curse away
+[00:56.04] Though I'll never know your name I'll cry for you the same
+[01:25.04] 
+[02:40.43] You fit perfectly to me in the loneliness, melt this curse away
+[02:47.95] Though I'll never know your name I'll cry for you the same
+[03:16.95] 
+[02:56.31] You fit perfectly to me in the loneliness, melt this curse away
+```
