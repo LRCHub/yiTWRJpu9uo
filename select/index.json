@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Fresh Static Snow",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-31T11:57:54.923834Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fresh Static Snow",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/01_Fresh_Static_Snow_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fresh Static Snow - Last Island Remix",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/02_Fresh_Static_Snow_-_Last_Island_Remix_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fresh Static Snow (Last Island remix)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/03_Fresh_Static_Snow_(Last_Island_remix)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fresh Static Snow (Last Island Remix)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/04_Fresh_Static_Snow_(Last_Island_Remix)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fresh Static Snow",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/05_Fresh_Static_Snow_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fresh Static Snow",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/06_Fresh_Static_Snow_Porter_Robinson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fresh Static Snow - Last Island Remix",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/07_Fresh_Static_Snow_-_Last_Island_Remix_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Porter Robinson - Fresh Static Snow (Audio)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/08_Porter_Robinson_-_Fresh_Static_Snow_(Audio)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "fresh static snow - last island remix",
+      "artist": "porter robinson/last island",
+      "has_synced": true,
+      "path": "select/09_fresh_static_snow_-_last_island_remix_porter_robinson_last_island.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fresh Static Snow",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Fresh_Static_Snow_Porter_Robinson.txt"
+    }
+  ]
+}
